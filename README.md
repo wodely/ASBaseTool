@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ASBaseTool
 
 [![CI Status](https://img.shields.io/travis/liukecyl@163.com/ASBaseTool.svg?style=flat)](https://travis-ci.org/liukecyl@163.com/ASBaseTool)
@@ -27,3 +28,6 @@ liukecyl@163.com, liukecyl@
 ## License
 
 ASBaseTool is available under the MIT license. See the LICENSE file for more info.
+=======
+# ASBaseTool
+>>>>>>> a69509cd43fddedb91e0777f55761133082060c6
