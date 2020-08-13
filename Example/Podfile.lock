@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
-  - ASBaseTool (0.1.0):
+  - ASBaseTool (0.2.0):
     - AFNetworking
     - SDWebImage
   - FBSnapshotTestCase (2.1.4):
@@ -22,9 +22,9 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - SDWebImage (5.8.0):
-    - SDWebImage/Core (= 5.8.0)
-  - SDWebImage/Core (5.8.0)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
 
 DEPENDENCIES:
   - ASBaseTool (from `../`)
@@ -42,9 +42,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  ASBaseTool: dcee7d9c9ba419ca7b286c7273a3a0b53e85f372
+  ASBaseTool: 8b05644c54ac55ba32ed0f32ab8003485216eed3
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
 
 PODFILE CHECKSUM: 87d02b62378534ba27fcd6bb901bd6d779ab632a
 
