@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ASBaseTool
 
 [![CI Status](https://img.shields.io/travis/liukecyl@163.com/ASBaseTool.svg?style=flat)](https://travis-ci.org/liukecyl@163.com/ASBaseTool)
